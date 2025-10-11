@@ -89,3 +89,5 @@
 }
 
 // 6.) Making Folder with vite
+
+// 7.) Components 

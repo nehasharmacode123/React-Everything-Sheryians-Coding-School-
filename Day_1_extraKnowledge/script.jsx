@@ -90,4 +90,8 @@
 
 // 6.) Making Folder with vite
 
-// 7.) Components 
+// 7.) Components
+
+// 8.) Props drilling
+
+// 9.) 

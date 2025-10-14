@@ -117,6 +117,26 @@ const App = () => {
     tag2: "Senior Level",
     pay: "$88/hr",
     location: "Mumbai, India"
+  },
+  {
+    brandLogo: "https://logo.clearbit.com/spotify.com",
+    companyName: "Spotify",
+    datePosted: "6 days ago",
+    post: "DevOps Engineer",
+    tag: "Full-time",
+    tag2: "Senior Level",
+    pay: "$88/hr",
+    location: "Mumbai, India"
+  },
+  {
+    brandLogo: "https://logo.clearbit.com/spotify.com",
+    companyName: "Spotify",
+    datePosted: "6 days ago",
+    post: "DevOps Engineer",
+    tag: "Full-time",
+    tag2: "Senior Level",
+    pay: "$88/hr",
+    location: "Mumbai, India"
   }
 ];
 
